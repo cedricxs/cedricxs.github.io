@@ -1,9 +1,9 @@
 ---
 layout: post
-title: MathJax Test
-date: 2017-07-30
+title: My Code
+date: 2019-05-02
 categories: test
-tags: mathjax 
+tags: Code 
 ---
 #include<iostream>
 using namespace std;
