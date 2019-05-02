@@ -3,7 +3,7 @@ layout: post
 title: My Code
 date: 2019-05-02
 categories: test
-tags: Code 
+tags: jekyll
 ---
 #include<iostream>
 using namespace std;
